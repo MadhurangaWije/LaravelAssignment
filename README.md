@@ -2,13 +2,13 @@
 
 Team Members Name
 
--Charith
--Ragulan
--Maduranga
--Sevindu
--Ishara
--Pavan
--Razeem
+- Charith
+- Ragulan
+- Maduranga
+- Sevindu
+- Ishara
+- Pavan
+- Razeem
 
 #Steps Team Members
 
