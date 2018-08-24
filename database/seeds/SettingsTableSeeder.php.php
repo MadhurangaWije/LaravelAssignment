@@ -11,7 +11,7 @@ class SettingsTableSeeder extends Seeder
       'contact_email'   => 'admin@example.com',
       'contact_address' => 'University of kelaniya,Dalugama',
       'hours'           => '9am - 5pm',
-      'support'         => '702-555-2222',
+      'support'         => '0345678921',
       'about'           => 'Leverage Group WebAssignment'
   }
 }
