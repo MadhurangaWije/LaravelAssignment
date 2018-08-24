@@ -17,7 +17,7 @@ class UsersTableSeeder extends Seeder
       'user_id'  => $user->id,
       'title'    => 'Administrator',
       'avatar'   => 'public/uploads/avatars/admin.jpg',
-      'about'    => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'about'    => 'im Administrator.',
       'facebook' => 'facebook.com',
       'youtube'  => 'youtube.com'
     ]);
