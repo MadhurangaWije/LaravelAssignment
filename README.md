@@ -1,5 +1,13 @@
-Project Laravel Blog Group Assignment
+#Project Laravel Blog Group Assignment
 
+Team Members Name
+Charith
+Ragulan
+Maduranga
+Sevindu
+Ishara
+Pavan
+Razeem
 
 #Steps Team Members
 
